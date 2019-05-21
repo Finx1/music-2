@@ -1,6 +1,6 @@
 owner=516473846983950336
-prefix=2
+prefix=!
 game=Watching Finx
 stayinchannel=true
 songinstatus=false
-token=
+token=NTgwMjA3MjQ1MjMzNDg3ODcy.XONbNg.QPQ3LJ94pb1qPGeRVX3ueuoFxKI
