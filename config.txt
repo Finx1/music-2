@@ -1,0 +1,6 @@
+owner=516473846983950336
+prefix=2
+game=Watching Finx
+stayinchannel=true
+songinstatus=false
+token=
